@@ -424,8 +424,11 @@ h3 {
 .shsm-table {
   width: 80vw;
   margin: auto;
-  text-align: center;
   padding-bottom: 100px;
+}
+
+.shsm-table h1 {
+  text-align: center;
 }
 
 .shsm-table img {
@@ -438,8 +441,11 @@ h3 {
 .career {
   width: 80vw;
   margin: auto;
-  text-align: center;
   padding-bottom: 100px;
+}
+
+.career h1 {
+  text-align: center;
 }
 
 .career img {
