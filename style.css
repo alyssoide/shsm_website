@@ -418,3 +418,31 @@ h3 {
 .red-btn:hover {
   color: #fff;
 }
+
+/* SHSM table */
+
+.shsm-table {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.shsm-table img {
+  height: 100%;
+  width: 100%;
+}
+
+/* Career */
+
+.career {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.career img {
+  height: 100%;
+  width: 100%;
+}
